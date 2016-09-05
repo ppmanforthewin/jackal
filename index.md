@@ -4,6 +4,8 @@ layout: default
 
 <div class="lead pretty-links">
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfeeKCSRn24pvEMPo2xqxIQENpyg65oMmfQSEH6jGRDbVOo-g/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
 {::nomarkdown} 
 
   <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
