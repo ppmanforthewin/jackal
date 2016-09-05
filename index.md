@@ -3,6 +3,9 @@ layout: default
 ---
 
 <div class="lead pretty-links">
+
+{::nomarkdown} 
+
   <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
     <!-- Identify your business so that you can collect the payments. -->
     <input type="hidden" name="business" value="kin@kinskards.com">
@@ -54,4 +57,7 @@ layout: default
     <img alt="" width="1" height="1"
         src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
 </form>
+
+{:/}
+
 </div>
