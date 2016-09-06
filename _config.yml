@@ -23,7 +23,7 @@ google_analytics: 'UA-XXXXXXXX-X'
 
 # Pagination settings
 paginate: 5                           # number of posts to show per page
-paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf as is
+paginate_path: "/_pages/articles/page:num/"  # link scheme for articles, should be letf as is
 
 # Navigation settings
 # Used to define the navigation menu items
