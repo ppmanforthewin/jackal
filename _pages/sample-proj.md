@@ -9,7 +9,7 @@ subtitle: Sample project
 
 **Holiday Camp** December 26th-30th
 
-## dLfdiber orbes sternentemque nunc mortalia rotae supplex
+## dLfdiber orbes stefrnentemque nunc mortalia rotae supplex
 
 Lorem **markdownum fugiens** lanigerosve [genus doctis
 sustinet](http://violenta.com/contraria) flamma tecti, perdiderat. Alcides et
