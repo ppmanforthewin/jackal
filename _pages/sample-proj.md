@@ -4,6 +4,7 @@ title: Project
 permalink: projects/sample-project/
 subtitle: Sample project
 ---
+
 | Thingy        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
