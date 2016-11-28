@@ -15,7 +15,7 @@ sustinet](http://violenta.com/contraria) flamma tecti, perdiderat. Alcides et
 manu! Aquarum exclamat adulter tuos; et fuerit has levi gurgite movit, candentia
 cava pharetramque aures Cythereiadasque turbant utinam erat.
 
-| Thingy        | Are           |
+| Thingy d       | Are           |
 | ------------- |:-------------:|
 | col 3 is      | right-aligned |
 | col 2 is      | centered      |
