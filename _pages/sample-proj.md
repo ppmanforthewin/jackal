@@ -18,6 +18,8 @@ cava pharetramque aures Cythereiadasque turbant utinam erat.
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
 
+---
+
 - Prementem passibus ab docuisse laborem recingitur videt
 - Debilis velle
 - Modo per pignora coiere et nec comitum
