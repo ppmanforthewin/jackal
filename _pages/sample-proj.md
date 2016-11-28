@@ -7,7 +7,7 @@ subtitle: Sample project
 
 | Thingy        | Are           |
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
+| col 3 is      | dright-aligned |
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
 
