@@ -5,7 +5,7 @@ permalink: projects/sample-project/
 subtitle: Sample project
 ---
 
-## Liber orbes sternentemque nunc mortalia rotae supplex
+## dLiber orbes sternentemque nunc mortalia rotae supplex
 
 Lorem **markdownum fugiens** lanigerosve [genus doctis
 sustinet](http://violenta.com/contraria) flamma tecti, perdiderat. Alcides et
