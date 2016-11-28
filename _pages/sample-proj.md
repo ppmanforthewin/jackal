@@ -5,6 +5,9 @@ permalink: projects/sample-project/
 subtitle: Sample project
 ---
 
+**Summer Camp:** Stay tuned for 2017 dates!
+**Holiday Camp** December 26th-30th
+
 ## dLfdiber orbes sternentemque nunc mortalia rotae supplex
 
 Lorem **markdownum fugiens** lanigerosve [genus doctis
