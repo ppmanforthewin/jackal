@@ -5,18 +5,18 @@ permalink: projects/sample-project/
 subtitle: Sample project
 ---
 
-| Thingy        | Are           |
-| ------------- |:-------------:|
-| col 3 is      | dright-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
-
 ## Liber orbes sternentemque nunc mortalia rotae supplex
 
 Lorem **markdownum fugiens** lanigerosve [genus doctis
 sustinet](http://violenta.com/contraria) flamma tecti, perdiderat. Alcides et
 manu! Aquarum exclamat adulter tuos; et fuerit has levi gurgite movit, candentia
 cava pharetramque aures Cythereiadasque turbant utinam erat.
+
+| Thingy        | Are           |
+| ------------- |:-------------:|
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
 
 - Prementem passibus ab docuisse laborem recingitur videt
 - Debilis velle
